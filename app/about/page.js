@@ -12,7 +12,7 @@ export default function AboutPage() {
             My name is <span className="font-semibold">Onyebeke Chidalu Victor</span>, and I am a passionate Flutter developer dedicated to building modern applications.
             I studied <span className="font-semibold">Electrical Engineering</span> at <span className="font-semibold">Nnamdi Azikiwe University</span>.
             I started my tech journey while in university, beginning with C++, then moving to Python, HTML, CSS, and JavaScript.
-            However, I wasn't always consistent. But for the past two years, I have been truly committed to learning and growing in tech.
+            However, I wasn&apos;t always consistent. But for the past two years, I have been truly committed to learning and growing in tech.
           </p>
           <p className="text-lg leading-relaxed mt-4">
             What really motivated me was seeing a friend I started with become successful in Flutter and mobile development.

@@ -68,7 +68,7 @@ export default function Home() {
         {/* Right Section - All Text */}
         <div className="lg:w-1/2 flex flex-col items-center lg:items-start text-center lg:text-left">
           {/* Introduction */}
-          <h2 className="text-5xl font-bold">Welcome, I'm Victor Onyebeke</h2>
+          <h2 className="text-5xl font-bold">Welcome, I&apos;m Victor Onyebeke</h2>
           <p className="mt-4 text-lg">
             A passionate Flutter developer who builds modern, scalable, and high-performance applications.
           </p>
@@ -87,7 +87,7 @@ export default function Home() {
           {/* My Works */}
           <div className="mt-10">
             <h3 className="text-3xl font-semibold">My Works</h3>
-            <p className="mt-2 text-lg">Check out some of the exciting projects I've built.</p>
+            <p className="mt-2 text-lg">Check out some of the exciting projects I&apos;ve built.</p>
             <Link href="/projects" className="mt-4 inline-block bg-green-600 text-white py-2 px-6 rounded-lg hover:bg-green-700 transition">
               View Projects
             </Link>
